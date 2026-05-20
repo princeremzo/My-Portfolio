@@ -1,12 +1,7 @@
 # Hi, I'm Kawoh Ezekiel
 ### Data & Machine Learning Engineer
 
-I have 6+ years of hands-on experience transforming complex datasets 
-into actionable insights. Strong background in data visualization, predictive analytics, 
-database management, and business intelligence. Proficient with modern analytics tools 
-including Python, SQL, Power BI, Tableau, MS Excel, Databricks, Google Analytics, 
-AWS and Azure services. Proven ability to improve decision-making, optimize business 
-processes, and support cross-functional teams through data-driven solutions. 
+I have several years of hands-on experience transforming complex datasets into actionable insights, coupled with a masters degree in machine learning that gave me the opportunity to advance my knowledge domain. I also have strong background in data visualization, predictive analytics, database management, and business intelligence. Proficient with modern analytics tools including Python, SQL, Power BI, Excel, Databricks, Google Analytics, AWS and Azure services. Proven ability to improve decision-making, optimize business processes, and support cross-functional teams through data-driven solutions. 
 
 ---
 
@@ -40,5 +35,5 @@ Design, Funnel Analysis.
 ---
 
 ## 📫 Let's Connect!
-* [LinkedIn](your-linkedin-link)
-* [Email](mailto:your.email@example.com)
+* [LinkedIn](www.linkedin.com/in/kawohezekiel)
+* [Email](mailto:your.ezekielkawoh@gmail.com)
