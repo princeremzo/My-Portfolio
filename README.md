@@ -1,14 +1,24 @@
 # Hi, I'm Kawoh Ezekiel
 ### Data & Machine Learning Engineer
 
-A brief 2-3 sentence summary of your expertise, your technical background, and what kind of data problems you excel at solving.
+I have 6+ years of hands-on experience transforming complex datasets 
+into actionable insights. Strong background in data visualization, predictive analytics, 
+database management, and business intelligence. Proficient with modern analytics tools 
+including Python, SQL, Power BI, Tableau, MS Excel, Databricks, Google Analytics, 
+AWS and Azure services. Proven ability to improve decision-making, optimize business 
+processes, and support cross-functional teams through data-driven solutions. 
 
 ---
 
-## 🛠️ Technical Stack
-* **Languages:** Python, SQL
-* **Data Engineering & Cloud:** PySpark, Databricks
-* **BI & Visualization:** Power BI, Tableau
+## 🛠️ Technical Skills
+
+* **Data & Analytics:**  Python, SQL, R, Snowflake, Databricks, Excel, Power BI, Tableau, Google Analytics & GA4, MLOps Basics, A/B Testing. 
+* **Machine Learning:**  Gradient Boosting, Regression, Model Deployment, Feature Engineering, Clustering, NLP, Time Series Analysis, TensorFlow, PySpark, PyTorch. 
+* **Database & Cloud:**  MySQL, PostgreSQL, AWS, Azure DevOps, GitHub/GitLab.
+* **Soft Skills:**  Communication, Team Collaboration, Critical Thinking, Leadership, 
+Problem-Solving, Time Management.
+* **Domain Expertise:**  Web Development, Digital Marketing Analytics, Dashboard 
+Design, Funnel Analysis.
 
 ---
 
